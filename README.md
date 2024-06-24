@@ -1,2 +1,4 @@
 # first-repo
-This is my first repo created watcing video of Apna College youtube channel.
+This is my first repo from watching a video on Apna College's YouTube channel.
+<be>
+This line is added to make the first commit in this readme file.
