@@ -1,7 +1,15 @@
-h1{
-  color: red;
-
+.parent{
+  background-color: aquamarine;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-p{
-  color: green;
+.child{
+  background-color: aqua;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
